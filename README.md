@@ -1,5 +1,6 @@
 # Monero Website Instructions
 
+
 Copyright (c) 2014-2018, The Monero Project
 
 ## IMPORTANT MULTILANGUAGE UPDATE NOTICE
